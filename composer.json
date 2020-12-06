@@ -1,0 +1,19 @@
+{
+    "name": "styde/oop",
+    "description": "Proyecto de aprendisaje de oop",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Pineda",
+            "email": "carlos.pineda.made@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["src/helpers.php"],
+        "psr-4": {
+            "Styde\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+
+(2020-12-06 05:03:07) [BasicBowAttack]
+(2020-12-06 05:03:07) [UnitPoints]
+(2020-12-06 05:03:07) [BasicBowAttack]
+(2020-12-06 05:03:07) [UnitPoints]
+(2020-12-06 05:03:07) [FireBowAttack]
+(2020-12-06 05:03:07) [UnitPoints]
